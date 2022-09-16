@@ -1,0 +1,15 @@
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\pizza.exe
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\pizza.dll
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\ref\pizza.dll
+C:\Users\valdb\source\repos\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.dll
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+C:\Users\valdb\source\repos\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
